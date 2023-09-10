@@ -1,0 +1,7 @@
+Tags:
+Tags defines structure and attributes of HTML elements. it consist of angled bracket("<" and ">") and encloses an HTML element. They define beginning and end of elements.
+Example:"<p>" is an opening tag for paragraph element.
+
+Elements:
+Elements represents actual content and structure on the web page. It consist of an opening tag, content and closing tag.
+Example:"<p>This is a paragraph</p>" this is an element consisting of opening ta , content and closing tag.

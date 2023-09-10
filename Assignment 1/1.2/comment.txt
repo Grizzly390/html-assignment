@@ -1,0 +1,1 @@
+Comments in HTML is used to add explanatory notes within the code. These notes are not displayed in the web browser. They are used to give information to the developer about the code's structure , functionality and any relevent details without affecting the webpage's output 
