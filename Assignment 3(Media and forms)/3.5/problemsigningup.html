@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problem while signing up</title>
+</head>
+<body style="background-color: chocolate; text-align: center;">
+    <h1>Write your problem here:</h1>
+    <form action="./problem.js" method="get"><!--In line 10 we'll put the file location (after form action="*") where we want to submit the file it'll not work because there is no file present as problem.js-->
+        <label for="problem">Enter your problem</label><br><br>
+        <textarea name="problem" id="problem" placeholder="Enter your probelm here" cols="30" rows="10" required></textarea><br><br>
+        <input type="submit" value="submit">
+    </form>
+    <h2><a href="./signup.html">Back to signup</a></h2>
+</body>
+</html>
