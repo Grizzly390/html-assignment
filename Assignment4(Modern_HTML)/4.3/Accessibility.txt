@@ -1,0 +1,23 @@
+accessibility in web development means making websites and apps that are easy to use by everyone including people with disabilities. Web developers do things like adding descriptions to pictures for blind people so the screen reader can tell what's in the image.
+
+It's essential to create accessible websites and it helps different user groups by following methods:
+
+1. It makes sure that everyone including people with disabilities can use websites easily.
+
+2. It's often required by the law to make websites accessible.
+
+3. When websites are accessible, more people can use them, which is good for business and organization.
+
+4. It makes websites easier to use for everyone not only with people with disabilities.
+
+5. It shows that the organization cares about its users.
+
+6. Accessible websites often rank better in search engines, so more people can find them.
+
+7. Government websites and schools need to be accessible so that everyone can access important information and services.
+
+8. Older people can have access to the content on the websites.
+
+9. It makes websites work better on phones and tablets.
+
+10. Everyone has equal access to information and services online.

@@ -1,0 +1,9 @@
+HTML is codes used in web pages to show special characters like <, >, &, etc. without confusing the web browser. They are like instructions that tell the browser to display a specific character, symbol, or letter.
+
+For Example:
+&lt; represents less than sign(<)
+&gt; represents greater than sign(>)
+&amp; represents the ampersand(&)
+&quot; represents the double quotation mark(")
+&nbsp; represents a non-breaking space.
+&copy; represents the copyright symbol.

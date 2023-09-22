@@ -1,0 +1,10 @@
+3 ways that help us improve the accessibility of HTML:
+
+1. Describe Pictures:
+If we have pictures on our website, it's important to tell people what's in the pictures. This helps the blind person to understand what's in the picture.
+
+2. Use Headings and Lists:
+When we have a lot of information on our page, we should use headings and lists. This helps people find what they are looking for quickly.
+
+3. Keep forms simple:
+If we have forms, we should keep them simple and easy to fill out and we should use labels to explain what information is needed in each box.

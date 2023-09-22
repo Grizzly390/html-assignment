@@ -1,0 +1,35 @@
+Key features of HTML5:
+1. Semantic elements:
+HTML5 introduces semantic elements like <header>, <nav>, <article>, <footer>, etc. to provide better structure and meaning to the content.
+
+2. Audio and Video support:
+<audio> and <video> elements allow the developer to add audio and videos directly into web pages.
+
+3. Improved Forms:
+HTML5 introduces new inputs like <input type="email">, <input type="password">, etc which makes it easier to create user-friendly web forms.
+
+4. SVG(Scalable Vector Graphics):
+HTML5 supports SVG for creating vector graphics and illustrations directly within a webpage.
+Example:<svg width="400" height="100">
+    <rect width="400" height="100" 
+    style="fill: chartreuse;stroke-width:10;stroke: blueviolet;" />
+    </svg>
+    It will draw a rectangle according to the specifications defined.
+
+5. Canvas:
+The <Canvas> element enables the creation of graphics and animations using JavaScript.
+
+6. Geolocation API:
+HTML5 includes the Geolocation API, which allows web applications to access the user's geographical location.
+
+7. Responsive Image:
+HTML5 includes features like the <picture> element and 'srcset' attribute,  which allows developers to deliver different images based on screen size and resolution which improves the website performance on various devices.
+
+8. Improved accessibility:
+HTML5 introduced several accessibility features such as 'aria- ' to make web content more accessible to users with disabilities.
+ 
+9. New Document structure:
+HTML5 simplifies the document structure by allowing optional closing tags for certain elements.
+
+10. Drag and Drop:
+HTML5 supports drag-and-drop functionality, making it easier to create user-friendly drag-and-drop interactions.
