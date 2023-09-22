@@ -1,0 +1,8 @@
+Meta tags play a very crucial role in web development. They provide essential information to search engines, improves the user experience, control how content appears on social media, enchance security, and offer various other benefits. Properly using meta tags can help us optimize our website and reach a wider audience.
+
+Here are some benefits of using meta tags:
+1. Some meta tags makes our website show up higher in search engines results.
+2. Meta tags make sure that our website looks good on various devices be it mobile phones or computers.
+3. Meta tags can also protect our website from bad thing like hacking.
+4. When we share our website on social media, meta tags make it look nice and show the right information.
+5. Certain meta tags help us to see how many people visited our website and what did they do on the website.

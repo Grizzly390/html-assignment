@@ -1,0 +1,6 @@
+Favicons are tiny images or icons or logos that represents a website. When we visit a website, we often see a small icon next to website's name in the browser's tab or bookmarks. That little icon is favicon.
+
+Favicons serves two main purpose:
+1. They help us quickly identify and recognize a website when we have multiple tabs open in our browser or when we are looking through our bookmarks.
+
+2. Many websites use their logos or brand symbols as favicons, which reinforce their branding and make websites more memorable.
